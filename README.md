@@ -12,13 +12,13 @@ Whether you're a developer, designer, hacker, or curious explorer — this list 
 
 > 👇 Our **Top 3 GitHub Gems** for:
 
-### 📅 July 2025
+### 📅 August 2025
 
 | Rank | Project | Description | Language | Category |
 |------|---------|-------------|----------| ---------|
-| 🥇 1 | [`MyScaleDB`](https://github.com/OriginHubAI/MyScaleDB) | A powerful database merging vector search with ClickHouse for AI applications | Python | Vector Database / AI Infra |
-| 🥈 2 | [`VictoriaLogs`](https://github.com/VictoriaMetrics/VictoriaLogs) | Production-grade logging solution with high performance and efficiency | Go | Observability / Logging |
-| 🥉 3 | [`autoswagger`](https://github.com/intruder-io/autoswagger) | Security tool that automates detection of critical API vulnerabilities | Python | Security / API Testing |
+| 🥇 1 | [`sinkzone`](https://github.com/sinkzone/sinkzone) | Outstanding productivity tool using allowlist-only DNS to block distractions | Go | Productivity / Security |
+| 🥈 2 | [`PocketChest`](https://github.com/PocketChest/PocketChest) | Beautifully executed serverless file and text sharing on Cloudflare | TypeScript | File Sharing / Serverless |
+| 🥉 3 | [`MiroFlow`](https://github.com/MiroFlow/MiroFlow) | Excellent framework for building complex, multi-agent AI systems | Python | AI / Multi-Agent Systems |
 
 ---
 
@@ -26,8 +26,8 @@ Whether you're a developer, designer, hacker, or curious explorer — this list 
 
 | Project | Description | Language |
 |---------|-------------|----------|
-| [`zuno`](https://github.com/midday-ai/zuno) | Clean, unified API for disparate ERP systems | TypeScript |
-| [`Kanvas`](https://github.com/WithSecureLabs/Kanvas) | Open-source incident response management tool from security experts | Python |
+| [`markdown-ui`](https://github.com/markdown-ui/markdown-ui) | Open standard for interactive widgets in Markdown | JavaScript |
+| [`Matrix-3D`](https://github.com/Matrix-3D/Matrix-3D) | Cutting-edge AI creating explorable 3D scenes from single images | Python |
 
 ---
 
@@ -38,7 +38,7 @@ Every month gets its own page with **details**, **screenshots**, and **why it’
 | Month | Link |
 |-------|------|
 | 📅 July 2025 | [`/2025/07.md`](./2025/07.md) |
-| 📅 August 2025 | _Coming soon_ |
+| 📅 August 2025 | [`/2025/08.md`](./2025/08.md) |
 
 ---
 
@@ -60,9 +60,9 @@ No low-effort projects. No abandoned ideas. Just pure dev joy.
 If your project was featured as a Hidden Gem, add this badge to your README:
 
   ```markdown
-  [![Hidden Gem of the Month](https://img.shields.io/badge/🚀%20Hidden%20Gem-July%202025-blueviolet?style=for-the-badge)](https://github.com/sergioalmela/underrated-github-gems)
+  [![Hidden Gem of the Month](https://img.shields.io/badge/🚀%20Hidden%20Gem-August%202025-blueviolet?style=for-the-badge)](https://github.com/sergioalmela/underrated-github-gems)
   ```
-  [![Hidden Gem of the Month](https://img.shields.io/badge/🚀%20Hidden%20Gem-July%202025-red?style=for-the-badge)](https://github.com/sergioalmela/underrated-github-gems)
+  [![Hidden Gem of the Month](https://img.shields.io/badge/🚀%20Hidden%20Gem-August%202025-red?style=for-the-badge)](https://github.com/sergioalmela/underrated-github-gems)
 
 ---
 
