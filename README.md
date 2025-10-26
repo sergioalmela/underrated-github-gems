@@ -12,13 +12,13 @@ Whether you're a developer, designer, hacker, or curious explorer — this list 
 
 > 👇 Our **Top 3 GitHub Gems** for:
 
-### 📅 September 2025
+### 📅 October 2025
 
 | Rank | Project | Description | Language | Category |
 |------|---------|-------------|----------| ---------|
-| 🥇 1 | [`eclaire`](https://github.com/etsd-tech/eclaire) | Local-first, private AI assistant for personal knowledge management | TypeScript | AI / Privacy |
-| 🥈 2 | [`resterm`](https://github.com/resterm/resterm) | Outstanding TUI for API testing (Postman/Insomnia for the terminal) | Rust | Developer Tools / CLI |
-| 🥉 3 | [`react-native-nitro-fetch`](https://github.com/margelo/react-native-nitro-fetch) | Production-ready solution for fast network requests in React Native | TypeScript | Performance / Mobile |
+| 🥇 1 | [`deepseek-ocr.rs`](https://github.com/ShelbyJenkins/deepseek-ocr.rs) | Rust port of DeepSeek-OCR as a single, dependency-free binary | Rust | Performance / OCR |
+| 🥈 2 | [`OpenMemory`](https://github.com/plastic-labs/OpenMemory) | Self-hosted long-term memory service for AI agents | TypeScript | AI / Memory |
+| 🥉 3 | [`nginx-love`](https://github.com/nginx-love/nginx-love) | Management portal for Nginx and ModSecurity (WAF) | PHP | Infrastructure / DevOps |
 
 ---
 
@@ -26,8 +26,8 @@ Whether you're a developer, designer, hacker, or curious explorer — this list 
 
 | Project | Description | Language |
 |---------|-------------|----------|
-| [`thoth-blueprint`](https://github.com/thoth-tech/thoth-blueprint) | Free, offline-first visual database designer with migration generation | TypeScript |
-| [`CodeMachine-CLI`](https://github.com/CodeMachine-LLC/CodeMachine-CLI) | AI-powered code generation from specs using multi-agent systems | Python |
+| [`oxdraw`](https://github.com/oxdraw/oxdraw) | Diagram as code tool with draggable visual editing | TypeScript |
+| [`arc`](https://github.com/mosmeh/arc) | High-performance time-series warehouse on modern data stack | Rust |
 
 ---
 
@@ -40,6 +40,7 @@ Every month gets its own page with **details**, **screenshots**, and **why it’
 | 📅 July 2025 | [`/2025/07.md`](./2025/07.md) |
 | 📅 August 2025 | [`/2025/08.md`](./2025/08.md) |
 | 📅 September 2025 | [`/2025/09.md`](./2025/09.md) |
+| 📅 October 2025 | [`/2025/10.md`](./2025/10.md) |
 
 ---
 
@@ -61,9 +62,9 @@ No low-effort projects. No abandoned ideas. Just pure dev joy.
 If your project was featured as a Hidden Gem, add this badge to your README:
 
   ```markdown
-  [![Hidden Gem of the Month](https://img.shields.io/badge/🚀%20Hidden%20Gem-August%202025-blueviolet?style=for-the-badge)](https://github.com/sergioalmela/underrated-github-gems)
+  [![Hidden Gem of the Month](https://img.shields.io/badge/🚀%20Hidden%20Gem-October%202025-blueviolet?style=for-the-badge)](https://github.com/sergioalmela/underrated-github-gems)
   ```
-  [![Hidden Gem of the Month](https://img.shields.io/badge/🚀%20Hidden%20Gem-September%202025-red?style=for-the-badge)](https://github.com/sergioalmela/underrated-github-gems)
+  [![Hidden Gem of the Month](https://img.shields.io/badge/🚀%20Hidden%20Gem-October%202025-red?style=for-the-badge)](https://github.com/sergioalmela/underrated-github-gems)
 
 ---
 
