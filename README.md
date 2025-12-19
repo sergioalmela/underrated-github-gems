@@ -16,9 +16,9 @@ Whether you're a developer, designer, hacker, or curious explorer — this list 
 
 | Rank | Project | Description | Language | Category |
 |------|---------|-------------|----------| ---------|
-| 🥇 1 | [`CloudMeet`](https://github.com/airbornharsh/CloudMeet) | Open-source Calendly alternative running on Cloudflare's free tier | TypeScript | Self-Hosting / Productivity |
-| 🥈 2 | [`pingora-proxy-manager`](https://github.com/foldsh/pingora-proxy-manager) | Modern Nginx Proxy Manager successor built on Cloudflare's Pingora | Rust | Infrastructure / DevOps |
-| 🥉 3 | [`claude-island`](https://github.com/Hoon94/claude-island) | Native macOS utility for seamless Claude AI integration | Swift | Productivity / macOS |
+| 🥇 1 | [`CloudMeet`](https://github.com/dennisklappe/CloudMeet) | Open-source Calendly alternative running on Cloudflare's free tier | TypeScript | Self-Hosting / Productivity |
+| 🥈 2 | [`pingora-proxy-manager`](https://github.com/DDULDDUCK/pingora-proxy-manager) | Modern Nginx Proxy Manager successor built on Cloudflare's Pingora | Rust | Infrastructure / DevOps |
+| 🥉 3 | [`claude-island`](https://github.com/farouqaldori/claude-island) | Native macOS utility for seamless Claude AI integration | Swift | Productivity / macOS |
 
 ---
 
@@ -26,8 +26,8 @@ Whether you're a developer, designer, hacker, or curious explorer — this list 
 
 | Project | Description | Language |
 |---------|-------------|----------|
-| [`sqlit`](https://github.com/tobymurray/sqlit) | Fantastic TUI for database management across multiple backends | Rust |
-| [`norish`](https://github.com/norish-app/norish) | Beautiful self-hostable recipe manager for families | TypeScript |
+| [`sqlit`](https://github.com/Maxteabag/sqlit) | Fantastic TUI for database management across multiple backends | Rust |
+| [`norish`](https://github.com/norish-recipes/norish) | Beautiful self-hostable recipe manager for families | TypeScript |
 
 ---
 
