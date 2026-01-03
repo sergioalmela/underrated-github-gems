@@ -12,13 +12,13 @@ Whether you're a developer, designer, hacker, or curious explorer — this list 
 
 > 👇 Our **Top 3 GitHub Gems** for:
 
-### 📅 November 2025
+### 📅 December 2025
 
 | Rank | Project | Description | Language | Category |
 |------|---------|-------------|----------| ---------|
-| 🥇 1 | [`CloudMeet`](https://github.com/dennisklappe/CloudMeet) | Open-source Calendly alternative running on Cloudflare's free tier | TypeScript | Self-Hosting / Productivity |
-| 🥈 2 | [`pingora-proxy-manager`](https://github.com/DDULDDUCK/pingora-proxy-manager) | Modern Nginx Proxy Manager successor built on Cloudflare's Pingora | Rust | Infrastructure / DevOps |
-| 🥉 3 | [`claude-island`](https://github.com/farouqaldori/claude-island) | Native macOS utility for seamless Claude AI integration | Swift | Productivity / macOS |
+| 🥇 1 | [`boxlite`](https://github.com/boxlite-ai/boxlite) | Micro-VM sandbox for AI agents that embeds like SQLite | Rust | Security / AI |
+| 🥈 2 | [`drip`](https://github.com/Gouryella/drip) | Self-hosted ngrok alternative with TLS 1.3 and unlimited bandwidth | Go | Infrastructure / DevOps |
+| 🥉 3 | [`stoolap`](https://github.com/stoolap/stoolap) | Embedded SQL database in Rust with MVCC and time-travel queries | Rust | Databases |
 
 ---
 
@@ -26,8 +26,8 @@ Whether you're a developer, designer, hacker, or curious explorer — this list 
 
 | Project | Description | Language |
 |---------|-------------|----------|
-| [`sqlit`](https://github.com/Maxteabag/sqlit) | Fantastic TUI for database management across multiple backends | Rust |
-| [`norish`](https://github.com/norish-recipes/norish) | Beautiful self-hostable recipe manager for families | TypeScript |
+| [`Rackula`](https://github.com/RackulaLives/Rackula) | Drag-and-drop server rack visualizer with Docker support | TypeScript |
+| [`mdflow`](https://github.com/johnlindquist/mdflow) | Executable markdown prompts for Claude, Codex, Gemini, and Copilot | TypeScript |
 
 ---
 
@@ -42,6 +42,7 @@ Every month gets its own page with **details**, **screenshots**, and **why it’
 | 📅 September 2025 | [`/2025/09.md`](./2025/09.md) |
 | 📅 October 2025 | [`/2025/10.md`](./2025/10.md) |
 | 📅 November 2025 | [`/2025/11.md`](./2025/11.md) |
+| 📅 December 2025 | [`/2025/12.md`](./2025/12.md) |
 
 ---
 
@@ -63,9 +64,9 @@ No low-effort projects. No abandoned ideas. Just pure dev joy.
 If your project was featured as a Hidden Gem, add this badge to your README:
 
   ```markdown
-  [![Hidden Gem of the Month](https://img.shields.io/badge/🚀%20Hidden%20Gem-November%202025-blueviolet?style=for-the-badge)](https://github.com/sergioalmela/underrated-github-gems)
+  [![Hidden Gem of the Month](https://img.shields.io/badge/🚀%20Hidden%20Gem-December%202025-blueviolet?style=for-the-badge)](https://github.com/sergioalmela/underrated-github-gems)
   ```
-  [![Hidden Gem of the Month](https://img.shields.io/badge/🚀%20Hidden%20Gem-November%202025-red?style=for-the-badge)](https://github.com/sergioalmela/underrated-github-gems)
+  [![Hidden Gem of the Month](https://img.shields.io/badge/🚀%20Hidden%20Gem-December%202025-red?style=for-the-badge)](https://github.com/sergioalmela/underrated-github-gems)
 
 ---
 
