@@ -12,13 +12,13 @@ Whether you're a developer, designer, hacker, or curious explorer — this list 
 
 > 👇 Our **Top 3 GitHub Gems** for:
 
-### 📅 December 2025
+### 📅 January 2026
 
 | Rank | Project | Description | Language | Category |
 |------|---------|-------------|----------| ---------|
-| 🥇 1 | [`boxlite`](https://github.com/boxlite-ai/boxlite) | Micro-VM sandbox for AI agents that embeds like SQLite | Rust | Security / AI |
-| 🥈 2 | [`drip`](https://github.com/Gouryella/drip) | Self-hosted ngrok alternative with TLS 1.3 and unlimited bandwidth | Go | Infrastructure / DevOps |
-| 🥉 3 | [`stoolap`](https://github.com/stoolap/stoolap) | Embedded SQL database in Rust with MVCC and time-travel queries | Rust | Databases |
+| 🥇 1 | [`pasteguard`](https://github.com/sgasser/pasteguard) | Privacy proxy that sanitizes PII before it reaches any LLM | TypeScript | Privacy / Compliance |
+| 🥈 2 | [`coi`](https://github.com/io-eric/coi) | Type-safe language for high-performance web apps with WASM and fine-grained reactivity | C++ | Programming Languages |
+| 🥉 3 | [`unsloth-mlx`](https://github.com/ARahim3/unsloth-mlx) | Unsloth LLM training optimizations ported to Apple Silicon via MLX | Python | AI / ML |
 
 ---
 
@@ -26,8 +26,8 @@ Whether you're a developer, designer, hacker, or curious explorer — this list 
 
 | Project | Description | Language |
 |---------|-------------|----------|
-| [`Rackula`](https://github.com/RackulaLives/Rackula) | Drag-and-drop server rack visualizer with Docker support | TypeScript |
-| [`mdflow`](https://github.com/johnlindquist/mdflow) | Executable markdown prompts for Claude, Codex, Gemini, and Copilot | TypeScript |
+| [`MirageKit`](https://github.com/EthanLipnik/MirageKit) | P2P screen sharing framework across the Apple ecosystem | Swift |
+| [`roborev`](https://github.com/roborev-dev/roborev) | Background code review tool for AI agent workflows | Go |
 
 ---
 
@@ -43,6 +43,7 @@ Every month gets its own page with **details**, **screenshots**, and **why it’
 | 📅 October 2025 | [`/2025/10.md`](./2025/10.md) |
 | 📅 November 2025 | [`/2025/11.md`](./2025/11.md) |
 | 📅 December 2025 | [`/2025/12.md`](./2025/12.md) |
+| 📅 January 2026 | [`/2026/01.md`](./2026/01.md) |
 
 ---
 
@@ -64,9 +65,9 @@ No low-effort projects. No abandoned ideas. Just pure dev joy.
 If your project was featured as a Hidden Gem, add this badge to your README:
 
   ```markdown
-  [![Hidden Gem of the Month](https://img.shields.io/badge/🚀%20Hidden%20Gem-December%202025-blueviolet?style=for-the-badge)](https://github.com/sergioalmela/underrated-github-gems)
+  [![Hidden Gem of the Month](https://img.shields.io/badge/🚀%20Hidden%20Gem-January%202026-blueviolet?style=for-the-badge)](https://github.com/sergioalmela/underrated-github-gems)
   ```
-  [![Hidden Gem of the Month](https://img.shields.io/badge/🚀%20Hidden%20Gem-December%202025-red?style=for-the-badge)](https://github.com/sergioalmela/underrated-github-gems)
+  [![Hidden Gem of the Month](https://img.shields.io/badge/🚀%20Hidden%20Gem-January%202026-red?style=for-the-badge)](https://github.com/sergioalmela/underrated-github-gems)
 
 ---
 
