@@ -16,8 +16,8 @@ Whether you're a developer, designer, hacker, or curious explorer — this list 
 
 | Rank | Project | Description | Language | Category |
 |------|---------|-------------|----------| ---------|
-| 🥇 1 | [`pasteguard`](https://github.com/sgasser/pasteguard) | Privacy proxy that sanitizes PII before it reaches any LLM | TypeScript | Privacy / Compliance |
-| 🥈 2 | [`coi`](https://github.com/io-eric/coi) | Type-safe language for high-performance web apps with WASM and fine-grained reactivity | C++ | Programming Languages |
+| 🥇 1 | [`coi`](https://github.com/io-eric/coi) | Type-safe language for high-performance web apps with WASM and fine-grained reactivity | C++ | Programming Languages |
+| 🥈 2 | [`pasteguard`](https://github.com/sgasser/pasteguard) | Privacy proxy that sanitizes PII before it reaches any LLM | TypeScript | Privacy / Compliance |
 | 🥉 3 | [`unsloth-mlx`](https://github.com/ARahim3/unsloth-mlx) | Unsloth LLM training optimizations ported to Apple Silicon via MLX | Python | AI / ML |
 
 ---
