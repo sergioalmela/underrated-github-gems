@@ -12,13 +12,13 @@ Whether you're a developer, designer, hacker, or curious explorer — this list 
 
 > 👇 Our **Top 3 GitHub Gems** for:
 
-### 📅 January 2026
+### 📅 February 2026
 
 | Rank | Project | Description | Language | Category |
 |------|---------|-------------|----------| ---------|
-| 🥇 1 | [`coi`](https://github.com/io-eric/coi) | Type-safe language for high-performance web apps with WASM and fine-grained reactivity | C++ | Programming Languages |
-| 🥈 2 | [`pasteguard`](https://github.com/sgasser/pasteguard) | Privacy proxy that sanitizes PII before it reaches any LLM | TypeScript | Privacy / Compliance |
-| 🥉 3 | [`unsloth-mlx`](https://github.com/ARahim3/unsloth-mlx) | Unsloth LLM training optimizations ported to Apple Silicon via MLX | Python | AI / ML |
+| 🥇 1 | [`frame`](https://github.com/66HEX/frame) | Beautiful FFmpeg GUI built with Tauri v2, Svelte 5, and Rust | Svelte | Media Processing |
+| 🥈 2 | [`headroom`](https://github.com/chopratejas/headroom) | Context optimization layer that compresses LLM tool outputs by 70-95% | Python | LLM Optimization |
+| 🥉 3 | [`BitCraftPublic`](https://github.com/clockworklabs/BitCraftPublic) | Open-source MMORPG server code built on SpacetimeDB | Rust | Gaming |
 
 ---
 
@@ -26,8 +26,7 @@ Whether you're a developer, designer, hacker, or curious explorer — this list 
 
 | Project | Description | Language |
 |---------|-------------|----------|
-| [`MirageKit`](https://github.com/EthanLipnik/MirageKit) | P2P screen sharing framework across the Apple ecosystem | Swift |
-| [`roborev`](https://github.com/roborev-dev/roborev) | Background code review tool for AI agent workflows | Go |
+| [`pipenet`](https://github.com/punkpeye/pipenet) | Modern tunneling tool to expose local servers, embeddable as a JS library | TypeScript |
 
 ---
 
@@ -44,6 +43,7 @@ Every month gets its own page with **details**, **screenshots**, and **why it’
 | 📅 November 2025 | [`/2025/11.md`](./2025/11.md) |
 | 📅 December 2025 | [`/2025/12.md`](./2025/12.md) |
 | 📅 January 2026 | [`/2026/01.md`](./2026/01.md) |
+| 📅 February 2026 | [`/2026/02.md`](./2026/02.md) |
 
 ---
 
@@ -65,9 +65,9 @@ No low-effort projects. No abandoned ideas. Just pure dev joy.
 If your project was featured as a Hidden Gem, add this badge to your README:
 
   ```markdown
-  [![Hidden Gem of the Month](https://img.shields.io/badge/🚀%20Hidden%20Gem-January%202026-blueviolet?style=for-the-badge)](https://github.com/sergioalmela/underrated-github-gems)
+  [![Hidden Gem of the Month](https://img.shields.io/badge/🚀%20Hidden%20Gem-February%202026-blueviolet?style=for-the-badge)](https://github.com/sergioalmela/underrated-github-gems)
   ```
-  [![Hidden Gem of the Month](https://img.shields.io/badge/🚀%20Hidden%20Gem-January%202026-red?style=for-the-badge)](https://github.com/sergioalmela/underrated-github-gems)
+  [![Hidden Gem of the Month](https://img.shields.io/badge/🚀%20Hidden%20Gem-February%202026-red?style=for-the-badge)](https://github.com/sergioalmela/underrated-github-gems)
 
 ---
 
